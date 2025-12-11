@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, ben Teslime</h1>
-<h3 align="center">Merhaba! Ben bir Bilgisayar ve Öğretim Teknolojileri Öğretmenliğim. Öğrencilerimle birlikte üretmeyi, yeni teknolojileri eğitimle buluşturmayı ve açık kaynak projelere katkı sunmayı seviyorum. Burada; Hindistan'dan tutkulu ön uç geliştiricisi</h3>
+<h3 align="center">Merhaba! Ben bir Bilgisayar ve Öğretim Teknolojileri Öğretmenliğim. Öğrencilerimle birlikte üretmeyi, yeni teknolojileri eğitimle buluşturmayı ve açık kaynak projelere katkı sunmayı seviyorum. Burada; Türkiyeden'den tutkulu ön uç geliştiricisi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teslimeozkanmaku&label=Profile%20views&color=0e75b6&style=flat" alt="teslimeozkanmaku" /> </p>
 
